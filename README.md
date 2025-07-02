@@ -7,10 +7,10 @@ This project was developed for **Task 5** of the **Prodigy InfoTech Cyber Securi
 A simple network packet sniffer written in **Python** using the **Scapy** library.  
 It captures live packets and displays key information including:
 
-- ✅ Source IP address
-- ✅ Destination IP address
-- ✅ Protocol (TCP, UDP, ICMP)
-- ✅ Raw payload data (preview)
+- Source IP address
+- Destination IP address
+- Protocol (TCP, UDP, ICMP)
+- Raw payload data (preview)
 
 > ⚠️Ethical Use Only:  
 > This tool is for **educational purposes only**.  
